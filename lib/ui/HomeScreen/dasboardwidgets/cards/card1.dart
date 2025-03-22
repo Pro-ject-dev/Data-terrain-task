@@ -1,7 +1,6 @@
   import 'package:dataterrain_task/ui/HomeScreen/dasboardwidgets/header_widget.dart';
 import 'package:dataterrain_task/constants/texts.dart';
 import 'package:flutter/material.dart';
-
 import '../../../../constants/colors.dart';
 
 class Card1{
