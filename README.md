@@ -1,16 +1,21 @@
-# dataterrain_task
+# Flutter Interview Task  
 
-A new Flutter project.
+This project is a Flutter-based UI implementation based on the provided Figma design. The application is designed to be fully responsive across mobile and tablet devices.  
 
-## Getting Started
+## 📌 Requirements  
+- **Flutter Version:** 3.24.5  
+- **Dart Version:** 3.5.4  
 
-This project is a starting point for a Flutter application.
+## 🚀 Features  
+- Responsive UI for both mobile and tablet  
+- Clean and maintainable code structure  
+- UI closely matches the provided Figma design  
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshots  
+![Screenshot 1](path/to/screenshot1.png)  
+![Screenshot 2](path/to/screenshot2.png)  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📥 Installation  
+1. Clone this repository:  
+   ```sh
+   git clone https://github.com/yourusername/repository-name.git
